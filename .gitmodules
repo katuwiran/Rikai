@@ -1,3 +1,6 @@
 [submodule "Graphviz"]
 	path = Graphviz
 	url = https://github.com/katuwiran/Rikai.Graphviz.git
+[submodule "Colorschemes"]
+	path = Colorschemes
+	url = https://github.com/katuwiran/Rikai.Colorschemes.git
