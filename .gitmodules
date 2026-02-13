@@ -1,0 +1,3 @@
+[submodule "Graphviz"]
+	path = Graphviz
+	url = https://github.com/katuwiran/Rikai.Graphviz.git
